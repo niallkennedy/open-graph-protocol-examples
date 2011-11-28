@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>http://examples.opengraphprotocol.us/</loc><priority>1</priority></url>
+<url><loc>http://examples.opengraphprotocol.us/article.html</loc></url>
+<url><loc>http://examples.opengraphprotocol.us/audio-array.html</loc></url>
+<url><loc>http://examples.opengraphprotocol.us/audio-url.html</loc></url>
+<url><loc>http://examples.opengraphprotocol.us/book-isbn10.html</loc></url>
+<url><loc>http://examples.opengraphprotocol.us/book.html</loc></url>
+<url><loc>http://examples.opengraphprotocol.us/canadian.html</loc></url>
+<url><loc>http://examples.opengraphprotocol.us/image-array.html</loc></url>
+<url><loc>http://examples.opengraphprotocol.us/image-toosmall.html</loc></url>
+<url><loc>http://examples.opengraphprotocol.us/image-url.html</loc></url>
+<url><loc>http://examples.opengraphprotocol.us/image.html</loc></url>
+<url><loc>http://examples.opengraphprotocol.us/min.html</loc></url>
+<url><loc>http://examples.opengraphprotocol.us/nomedia.html</loc></url>
+<url><loc>http://examples.opengraphprotocol.us/profile.html</loc></url>
+<url><loc>http://examples.opengraphprotocol.us/required.html</loc></url>
+<url><loc>http://examples.opengraphprotocol.us/video-array.html</loc></url>
+<url><loc>http://examples.opengraphprotocol.us/video-movie.html</loc></url>
+<url><loc>http://examples.opengraphprotocol.us/video.html</loc></url>
+</urlset>
