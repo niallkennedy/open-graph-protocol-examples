@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>http://examples.opengraphprotocol.us/</loc><priority>1</priority></url>
 <url><loc>http://examples.opengraphprotocol.us/article.html</loc></url>
+<url><loc>http://examples.opengraphprotocol.us/article-offset.html</loc></url>
+<url><loc>http://examples.opengraphprotocol.us/article-utc.html</loc></url>
 <url><loc>http://examples.opengraphprotocol.us/audio-array.html</loc></url>
 <url><loc>http://examples.opengraphprotocol.us/audio-url.html</loc></url>
 <url><loc>http://examples.opengraphprotocol.us/book-isbn10.html</loc></url>
